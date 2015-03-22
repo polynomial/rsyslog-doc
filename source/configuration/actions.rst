@@ -13,7 +13,7 @@ The action object has different parameters:
    documented below.
 -  parameters for the action queue. While they also apply to all
    parameters, they are queue-specific, not action-specific (they are
-   the same that are used in rulesets, for example). The are documented
+   the same that are used in rulesets, for example). They are documented
    separately under :doc:`queue parameters <../rainerscript/queue_parameters>`.
 -  action-specific parameters. These are specific to a certain type of
    actions. They are documented by the :doc:`output modules<modules/idx_output>`
